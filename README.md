@@ -1,10 +1,10 @@
 ## Details
 
-**Name			: Shahmir Ali**\
+**Name			  : Shahmir Ali**\
 **Section		: 1**\
-**Group			: B(SE)**\
-**Course		: Programming Fundamentals**\
-**Semester	: First**\
+**Group		 	: B(SE)**\
+**Course		 : Programming Fundamentals**\
+**Semester	: First**
 
 ## Hobbies
 
