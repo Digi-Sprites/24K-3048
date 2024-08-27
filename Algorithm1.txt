@@ -1,0 +1,8 @@
+// check if a number is a divisor or not, if so, check whether it is even or odd
+
+1. Ask the user to enter Divisor.
+2. Ask the user to enter Number.
+3. If Number can be divided by Divisor, set Divisibility to True.
+4. If the Divisor is divisible by 2, set Nature to Even.
+5. If the Divisor is NOT divisible by 2, set Nature to Odd.
+6. Display the Divisibility and Nature of the divisor to the user.
