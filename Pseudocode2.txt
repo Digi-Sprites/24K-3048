@@ -1,0 +1,15 @@
+// taking the sum of three variables without the '+' operater
+
+START 
+
+INPUT number1
+INPUT number2
+INPUT number3
+
+// adding the variables
+
+SET sum = (number1 - [ - number2 - number3 ])
+
+PRINT sum
+
+END
