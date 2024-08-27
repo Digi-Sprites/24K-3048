@@ -1,4 +1,6 @@
 
+START
+
 // finding the maximum number of three variables 
 
 INPUT number1
@@ -7,4 +9,15 @@ INPUT number3
 
 // comparing the variables
 
-IF number1 > number2
+IF number1 > number2 THEN
+  IF number1 > number3 THEN
+    PRINT number1 + "is the greatest."
+  ELSE 
+    PRINT number3 + "is the greatest." 
+ELSE
+  IF number2 > number3 THEN
+    PRINT number2 + "is the greatest."
+  ELSE 
+    PRINT number3 + "is the greatest."
+
+END
