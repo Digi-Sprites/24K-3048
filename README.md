@@ -26,13 +26,6 @@
 
 ![BRWAS](https://github.com/user-attachments/assets/a6652dd7-6f46-40a1-a884-c8943609c57c)
 
-![glass-pane](https://github.com/user-attachments/assets/d5304fa8-a932-4eaa-bc1b-3db6b667521b)
-
-![mechanical-pencil](https://github.com/user-attachments/assets/f01955f1-d33f-4fdf-906e-a378ffef868d)
-
-![bolt](https://github.com/user-attachments/assets/c1cb9aec-653f-48bc-81d4-acfa45a46ee5)
-
-![shingle](https://github.com/user-attachments/assets/469e45d6-1d60-494a-8649-c604a741ab21)
 
 
 
