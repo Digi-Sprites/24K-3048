@@ -1,0 +1,15 @@
+// calculator
+
+1.    Ask the user to enter Number1.
+2.    Ask the user to enter Number2.
+3.    Set Sum to (Number1 + Number2).
+4.    Set Difference to (Number1 - Number2).
+5.    Set Product to (Number1 * Number2).
+6.    Set Remainder to (Number1 / Number2).
+7.    Set Percentage to (Number1 / Number2 * 100).
+8.    Ask the user to choose an operator from "+", "-", "*", "/", "%".
+9.    If the operator is "+", display Sum.
+10.   If the operator is "-", display Difference.
+11.   If the operator is "*", display Product.
+12.		If the operator is "/", display Remainder.
+13.   If the operator is "%", display Percentage.
