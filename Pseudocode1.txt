@@ -1,7 +1,6 @@
+// finding the maximum number of three variables
 
-START
-
-// finding the maximum number of three variables 
+START 
 
 INPUT number1
 INPUT number2
