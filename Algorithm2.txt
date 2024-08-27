@@ -1,0 +1,17 @@
+// month selector
+
+1.    Ask the user to enter NumberOfMonth.
+2.    Check the value of the number.
+3.    If NumberOfMonth is 1, Set Month to "January".
+4.    If NumberOfMonth is 2, Set Month to "February".
+5.    If NumberOfMonth is 3, Set Month to "March".
+6.    If NumberOfMonth is 4, Set Month to "April".
+7.    If NumberOfMonth is 5, Set Month to "May".
+8.    If NumberOfMonth is 6, Set Month to "June".
+9.    If NumberOfMonth is 7, Set Month to "July".
+10.   If NumberOfMonth is 8, Set Month to "August".
+11.   If NumberOfMonth is 9, Set Month to "September".
+12.   If NumberOfMonth is 10, Set Month to "October".
+13.   If NumberOfMonth is 11, Set Month to "November".
+14.   If NumberOfMonth is 12, Set Month to "December".
+15.   Display Month to the user.
