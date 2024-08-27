@@ -1,0 +1,23 @@
+// simple calculator
+
+START
+
+INPUT num1
+INPUT num2
+INPUT operator
+
+// assigining variables
+
+SET sum = num1 + num2
+SET difference = num1 - num2
+
+// calculator script
+
+IF operator = "+" THEN
+  PRINT sum
+ELSE IF operator = "-" THEN
+  PRINT difference
+ELSE 
+  PRINT "Invalid Operator"
+
+END
